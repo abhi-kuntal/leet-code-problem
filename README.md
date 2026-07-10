@@ -15,12 +15,14 @@
 | [0001-two-sum](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
