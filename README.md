@@ -20,6 +20,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0142-linked-list-cycle-ii) |
@@ -42,6 +43,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0142-linked-list-cycle-ii) |
