@@ -56,6 +56,7 @@
 | [0141-linked-list-cycle](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
