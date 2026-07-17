@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0169-majority-element) |
 ## Hash Table
@@ -30,6 +31,7 @@
 | [0018-4sum](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0142-linked-list-cycle-ii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -38,6 +40,7 @@
 | ------- |
 | [0015-3sum](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0169-majority-element) |
 ## Matrix
 |  |
