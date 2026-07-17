@@ -12,6 +12,7 @@
 | [0031-next-permutation](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0073-set-matrix-zeroes) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
 | ------- |
