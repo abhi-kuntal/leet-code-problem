@@ -16,6 +16,7 @@
 | [0075-sort-colors](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,4 +110,9 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
