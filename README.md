@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -120,12 +121,15 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
