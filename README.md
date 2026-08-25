@@ -111,6 +111,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -139,4 +140,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0100-same-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
