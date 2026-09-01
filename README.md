@@ -26,6 +26,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
 ## Two Pointers
 |  |
@@ -95,6 +96,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0020-valid-parentheses) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
