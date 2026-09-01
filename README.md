@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0225-implement-stack-using-queues) |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0225-implement-stack-using-queues) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
