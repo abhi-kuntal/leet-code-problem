@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
+| [2073-time-needed-to-buy-tickets](https://github.com/abhi-kuntal/leet-code-problem/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,8 +155,13 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0387-first-unique-character-in-a-string) |
+| [2073-time-needed-to-buy-tickets](https://github.com/abhi-kuntal/leet-code-problem/tree/master/2073-time-needed-to-buy-tickets) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/abhi-kuntal/leet-code-problem/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
