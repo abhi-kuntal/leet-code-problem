@@ -17,6 +17,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0503-next-greater-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/abhi-kuntal/leet-code-problem/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -120,10 +121,12 @@
 | [0225-implement-stack-using-queues](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
