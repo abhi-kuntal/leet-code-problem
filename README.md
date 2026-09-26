@@ -132,6 +132,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
@@ -142,6 +143,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0145-binary-tree-postorder-traversal) |
@@ -151,6 +153,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
@@ -203,5 +206,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
