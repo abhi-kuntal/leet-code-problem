@@ -17,6 +17,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0200-number-of-islands) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0100-same-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0543-diameter-of-binary-tree) |
@@ -176,6 +179,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0200-number-of-islands) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Design
 |  |
@@ -225,4 +229,8 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhi-kuntal/leet-code-problem/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
