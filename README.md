@@ -233,4 +233,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0200-number-of-islands) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/abhi-kuntal/leet-code-problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
